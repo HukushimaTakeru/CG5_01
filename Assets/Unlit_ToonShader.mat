@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Unlit_04_Phong
-  m_Shader: {fileID: 4800000, guid: bdf16445ecc622946bfd046f2236d71e, type: 3}
+  m_Name: Unlit_ToonShader
+  m_Shader: {fileID: 4800000, guid: 6d06108f63542f64a9c8f94cc7a6880b, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -30,6 +30,6 @@ Material:
     m_Ints: []
     m_Floats: []
     m_Colors:
-    - _Color: {r: 0.7433963, g: 0.14212719, b: 0, a: 1}
+    - _Color: {r: 1, g: 0, b: 0, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
