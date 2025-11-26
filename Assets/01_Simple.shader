@@ -13,6 +13,8 @@ Shader "Unlit/01_Simple"
 
 	SubShader
 	{
+		
+
 		Pass
 		{
 			///Shader Setting
