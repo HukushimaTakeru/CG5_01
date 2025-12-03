@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Unlit_AlphaBlend
-  m_Shader: {fileID: 4800000, guid: 9148fae966c20274990cb01295273688, type: 3}
+  m_Name: Unlit_04_02dis
+  m_Shader: {fileID: 4800000, guid: b0a5ad1b87b72504b9763c0accd1c71b, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -24,7 +24,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: c00e043aa220c6f4cbb01480b88d60cb, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Ints: []

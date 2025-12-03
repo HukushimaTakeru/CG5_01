@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Unlit_Rimlight
-  m_Shader: {fileID: 4800000, guid: 6d06108f63542f64a9c8f94cc7a6880b, type: 3}
+  m_Shader: {fileID: 4800000, guid: ba1586d9f0b497b4aa3a044afb63eba1, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -30,6 +30,6 @@ Material:
     m_Ints: []
     m_Floats: []
     m_Colors:
-    - _Color: {r: 1, g: 0, b: 0, a: 1}
+    - _Color: {r: 0.03396219, g: 0.03396219, b: 0.03396219, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
