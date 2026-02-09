@@ -1,9 +1,9 @@
-Shader "Custom/13_02GaussianBlur"
+ï»¿Shader "Custom/13_02GaussianBlur"
 {
     Properties
     {
-       _StepWidth("ƒuƒ‰[–§“x",Range(0.001,0.02)) = 0.05
-       _Sigma("ƒuƒ‰[‹­“x",Range(0,0.01)) = 0.01
+       _StepWidth("ãƒ–ãƒ©ãƒ¼å¯†åº¦",Range(0.001,0.02)) = 0.05
+       _Sigma("ãƒ–ãƒ©ãƒ¼å¼·åº¦",Range(0,0.01)) = 0.01
     }
 
     SubShader
